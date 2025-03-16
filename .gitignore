@@ -1,0 +1,6 @@
+# vim stuff
+*~
+*.sw?
+*.sv?
+
+.DS_Store
