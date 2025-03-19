@@ -4,7 +4,7 @@ PackageExport[NDNetworkEvolutionList]
 PackageExport[NDNetworkDisplay]
 PackageExport[NDNetworkEvolutionPlot]
 PackageExport[CyclicNet]
-
+PackageExport[GetNetworkRules]
 
 
 drawArrow[{a_, b_}, n_, tot_] := Module[
@@ -20,7 +20,12 @@ drawArrow[{a_, b_}, n_, tot_] := Module[
 ]
 
 NDNetEvolutionStep[{depth_Integer, rules_List}, list_List] := Block[{new = {}},
-    Join[Table[Map[NDNetEvolutionStep1[#, list, i] &, Replace[NeighborNumbers[list, i, depth], rules]], {i, Length[list]}], new]]
+    Join[Table[
+        Map[NDNetEvolutionStep1[#, list, i]&, Replace[NeighborNumbers[list, i, depth], rules]],
+        {i, Length[list]}
+      ],
+    new]
+]
 
 FollowPath[list_, i_, s_] := Fold[(list[[#1]][[#2]]) &, i, s]
 
@@ -29,8 +34,8 @@ NeighborNumbers[list_, i_, d_] := (Length /@ NestList[Union[Flatten[list[[#]]]] 
 NDNetEvolutionStep1[s : {___Integer}, list_, i_] := FollowPath[list, i, s]
 
 NDNetEvolutionStep1[{s1 : {___Integer}, s2 : {___Integer}}, list_List, i_Integer] := Module[{nodenumber},
-  nodenumber = Length[list] + Length[AppendTo[new, {FollowPath[list, i, s1], FollowPath[list, i, s2]}]];
-  AppendTo[nnmap, {i, nodenumber}]; nodenumber
+    nodenumber = Length[list] + Length[AppendTo[new, {FollowPath[list, i, s1], FollowPath[list, i, s2]}]];
+    AppendTo[nnmap, {i, nodenumber}]; nodenumber
 ]
 
 ConnectedNodes[list_, i_] := Module[{seq, pl},
@@ -49,7 +54,7 @@ NDNetworkEvolutionList[rules_, init_, tot_Integer, OptionsPattern[]] := Module[{
      (rmd /. {False -> ConnectedNodes[#, 1],
           True -> {Union[Flatten[#]], #}}
         &)[NDNetEvolutionStep[rules, Last[#]]]
-     ] &, {{}, init}, tot + 1]
+     ] &, {{}, init}, tot]
 ]
 
 
@@ -63,15 +68,58 @@ NDNetworkDisplay[net_] := Module[{i},
        RotationTransform[2 Pi, {i, 0}]
        ]
       } &, net]
-   ]
+  ]
 ]
 
-Options[NDNetworkEvolutionPlot] = {"SimpleNet" -> False};
-NDNetworkEvolutionPlot[rules_, init_, tot_Integer, OptionsPattern[]] := Module[{issimplenet, i, history, k = 2},
+GetDepthOneRules[code_Integer] := {1, Table[{i} -> Table[
+     {{1}, {2}, {{1}, {1}}, {{1}, {2}}, {{2}, {1}}, {{2}, {2}}}[[1 +
+        IntegerDigits[code, 6, 4][[1 + 2 (i - 1) + (j - 1)]]]],
+     {j, 2}], {i, 2}
+   ]
+}
+
+decodeOneLink[code_, d_] := Module[{f, baseDigits, basemap},
+  f[i_] := IntegerDigits[i, 6, d + 1];
+  baseDigits = If[! MemberQ[Range[0, 5], code], f[code], code];
+  basemap = If[d == 1,
+    {0 -> {1}, 1 -> {2}, 2 -> {{1}, {1}}, 3 -> {{1}, {2}}, 4 -> {{2}, {1}}, 5 -> {{2}, {2}}},
+    {0 -> {1}, 1 -> {2}, 2 -> {1, 1}, 3 -> {1, 2}, 4 -> {2, 1}, 5 -> {2, 2}}
+  ];
+  Replace[baseDigits, {{1, 0, x_} :> x, {1 | 0, x_, y_} :> {x, y}}] /. basemap
+]
+
+decodeOneCaseIndex[indexcase_, d_] := Module[{sz = 6^d, up, down},
+  up = Quotient[indexcase, sz];
+  down = Mod[indexcase, sz];
+  {decodeOneLink[up, d], decodeOneLink[down, d]}
+]
+
+GetNetworkRules[index_, d_] := Module[{cases, sums, c, base = (6^d)^2},
+  sums = Range[d, 2^(d + 1) - 2];
+  c = Length[sums];
+  If[index >= base^c,
+   Return["Index out of range for depth=" <> ToString[d] <>
+      ". Max index is " <> ToString[base^c - 1]];
+   ];
+  cases =
+   AssociationThread[sums,
+    decodeOneCaseIndex[#, d] & /@ IntegerDigits[index, base, c]];
+  If[! AssociationQ[cases], Return[cases]];
+  {d, Flatten[Array[{{##} -> cases[Total[{##}]]} &, Table[2^i, {i, d}]]]}
+]
+
+Options[NDNetworkEvolutionPlot] = {"Depth" -> 1, "SimpleNet" -> False};
+NDNetworkEvolutionPlot[code_Integer, init_, tot_Integer, opts: OptionsPattern[]] := Module[{depth, rules}, 
+    depth = OptionValue["Depth"];
+    rules = GetNetworkRules[code, depth];
+    NDNetworkEvolutionPlot[rules, init, tot, FilterRules[{opts}, Options[NDNetworkEvolutionPlot]]]
+]
+
+NDNetworkEvolutionPlot[rules_List, init_, tot_Integer, opts: OptionsPattern[]] := Module[{issimplenet, i, history, k = 2},
   issimplenet = OptionValue["SimpleNet"];
   history = NDNetworkEvolutionList[rules, init, tot, "SimpleNet" -> issimplenet];
   Graphics[{
-    {GrayLevel[0.6], AbsoluteThickness[1.5], MapIndexed[(
+    {GrayLevel[0.6], AbsoluteThickness[2], MapIndexed[(
         i = First[#2];
         MapIndexed[Line[{{First[#2], -k*i}, {#1, k - k*i}}] &,
          First[#1]]
