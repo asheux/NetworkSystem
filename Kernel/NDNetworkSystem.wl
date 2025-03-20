@@ -79,33 +79,30 @@ GetDepthOneRules[code_Integer] := {1, Table[{i} -> Table[
 }
 
 decodeOneLink[code_, d_] := Module[{f, baseDigits, basemap},
-  f[i_] := IntegerDigits[i, 6, d + 1];
-  baseDigits = If[! MemberQ[Range[0, 5], code], f[code], code];
-  basemap = If[d == 1,
-    {0 -> {1}, 1 -> {2}, 2 -> {{1}, {1}}, 3 -> {{1}, {2}}, 4 -> {{2}, {1}}, 5 -> {{2}, {2}}},
-    {0 -> {1}, 1 -> {2}, 2 -> {1, 1}, 3 -> {1, 2}, 4 -> {2, 1}, 5 -> {2, 2}}
-  ];
-  Replace[baseDigits, {{1, 0, x_} :> x, {1 | 0, x_, y_} :> {x, y}}] /. basemap
+    f[i_] := IntegerDigits[i, 6, d + 1];
+    baseDigits = If[! MemberQ[Range[0, 5], code], f[code], code];
+    basemap = If[d == 1,
+        {1 -> {1}, 2 -> {2}, 3 -> {{1}, {1}}, 4 -> {{1}, {2}}, 5 -> {{2}, {1}}, 6 -> {{2}, {2}}},
+        {1 -> {1}, 2 -> {2}, 3 -> {1, 1}, 4 -> {1, 2}, 5 -> {2, 1}, 6 -> {2, 2}}
+    ];
+    (1 + Replace[baseDigits, {{1, 0, x_} :> x, {1 | 0, x_, y_} :> {x, y}}]) /. basemap
 ]
 
 decodeOneCaseIndex[indexcase_, d_] := Module[{sz = 6^d, up, down},
-  up = Quotient[indexcase, sz];
-  down = Mod[indexcase, sz];
-  {decodeOneLink[up, d], decodeOneLink[down, d]}
+    up = Quotient[indexcase, sz];
+    down = Mod[indexcase, sz];
+    {decodeOneLink[up, d], decodeOneLink[down, d]}
 ]
 
-GetNetworkRules[index_, d_] := Module[{cases, sums, c, base = (6^d)^2},
-  sums = Range[d, 2^(d + 1) - 2];
-  c = Length[sums];
-  If[index >= base^c,
-   Return["Index out of range for depth=" <> ToString[d] <>
-      ". Max index is " <> ToString[base^c - 1]];
-   ];
-  cases =
-   AssociationThread[sums,
-    decodeOneCaseIndex[#, d] & /@ IntegerDigits[index, base, c]];
-  If[! AssociationQ[cases], Return[cases]];
-  {d, Flatten[Array[{{##} -> cases[Total[{##}]]} &, Table[2^i, {i, d}]]]}
+GetNetworkRules[index_, d_] := Module[{localpairs, c, base = (6^d)^2},
+    localpairs = Tuples[Table[Range[1, 2^k], {k, d}]];
+    c = Length[localpairs];
+    If[index >= base^c,
+        Return["Index out of range for depth=" <> ToString[d] <>". Max index is " <> ToString[base^c - 1]];
+    ];
+    {d, MapThread[If[IntegerQ[#], {#}, #] -> #2 &,
+        {localpairs, decodeOneCaseIndex[#, d] & /@ IntegerDigits[index, base, c]}]
+    }
 ]
 
 Options[NDNetworkEvolutionPlot] = {"Depth" -> 1, "SimpleNet" -> False};
@@ -116,18 +113,19 @@ NDNetworkEvolutionPlot[code_Integer, init_, tot_Integer, opts: OptionsPattern[]]
 ]
 
 NDNetworkEvolutionPlot[rules_List, init_, tot_Integer, opts: OptionsPattern[]] := Module[{issimplenet, i, history, k = 2},
-  issimplenet = OptionValue["SimpleNet"];
-  history = NDNetworkEvolutionList[rules, init, tot, "SimpleNet" -> issimplenet];
-  Graphics[{
-    {GrayLevel[0.6], AbsoluteThickness[2], MapIndexed[(
-        i = First[#2];
-        MapIndexed[Line[{{First[#2], -k*i}, {#1, k - k*i}}] &,
-         First[#1]]
+    issimplenet = OptionValue["SimpleNet"];
+    history = NDNetworkEvolutionList[rules, init, tot, "SimpleNet" -> issimplenet];
+    Graphics[{
+        {GrayLevel[0.6], AbsoluteThickness[2], MapIndexed[(
+            i = First[#2];
+            MapIndexed[Line[{{First[#2], -k*i}, {#1, k - k*i}}] &,
+                First[#1]]
         ) &, history]},
-    MapIndexed[
-     Translate[First[#], {0, -k First[#2]}] &,
-     Map[NDNetworkDisplay[#[[2]]] &, history]]
+        MapIndexed[
+            Translate[First[#], {0, -k First[#2]}] &,
+            Map[NDNetworkDisplay[#[[2]]] &, history]
+        ]
     },
-   PlotRange -> {{0.5, 0.5 + Max[Length[#[[2]]] & /@ history]}, All}
-  ]
+    PlotRange -> {{0.5, 0.5 + Max[Length[#[[2]]] & /@ history]}, All}
+    ]
 ]
