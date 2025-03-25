@@ -4,3 +4,6 @@
 *.sv?
 
 .DS_Store
+
+# WL
+build/

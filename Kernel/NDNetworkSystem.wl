@@ -4,7 +4,7 @@ PackageExport[NDNetworkEvolutionList]
 PackageExport[NDNetworkDisplay]
 PackageExport[NDNetworkEvolutionPlot]
 PackageExport[CyclicNet]
-PackageExport[GetNetworkRules]
+PackageExport[MakeNetworkRule]
 
 
 drawArrow[{a_, b_}, n_, tot_] := Module[
@@ -94,7 +94,7 @@ decodeOneCaseIndex[indexcase_, d_] := Module[{sz = 6^d, up, down},
     {decodeOneLink[up, d], decodeOneLink[down, d]}
 ]
 
-GetNetworkRules[index_, d_] := Module[{localpairs, c, base = (6^d)^2},
+MakeNetworkRule[index_, d_] := Module[{localpairs, c, base = (6^d)^2},
     localpairs = Tuples[Table[Range[1, 2^k], {k, d}]];
     c = Length[localpairs];
     If[index >= base^c,
@@ -108,7 +108,7 @@ GetNetworkRules[index_, d_] := Module[{localpairs, c, base = (6^d)^2},
 Options[NDNetworkEvolutionPlot] = {"Depth" -> 1, "SimpleNet" -> False};
 NDNetworkEvolutionPlot[code_Integer, init_, tot_Integer, opts: OptionsPattern[]] := Module[{depth, rules}, 
     depth = OptionValue["Depth"];
-    rules = GetNetworkRules[code, depth];
+    rules = MakeNetworkRule[code, depth];
     NDNetworkEvolutionPlot[rules, init, tot, FilterRules[{opts}, Options[NDNetworkEvolutionPlot]]]
 ]
 
