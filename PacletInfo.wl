@@ -7,7 +7,7 @@ PacletObject[
     "Creator" -> "Brian A. Mboya",
     "License" -> "MIT",
     "PublisherID" -> "WolframInstitute",
-    "Version" -> "0.0.1",
+    "Version" -> "1.0.2",
     "WolframVersion" -> "14.2+",
     "PrimaryContext" -> "WolframInstitute`NetworkSystem`",
     "Extensions" -> {
@@ -17,10 +17,10 @@ PacletObject[
         "Context" -> "WolframInstitute`NetworkSystem`",
         "Symbols" -> {
           "WolframInstitute`NetworkSystem`CyclicNet",
-          "WolframInstitute`NetworkSystem`MakeNetworkRule",
-          "WolframInstitute`NetworkSystem`NDNetworkDisplay",
-          "WolframInstitute`NetworkSystem`NDNetworkEvolutionList",
-          "WolframInstitute`NetworkSystem`NDNetworkEvolutionPlot"
+          "WolframInstitute`NetworkSystem`NetworkSystemRule",
+          "WolframInstitute`NetworkSystem`NetworkSystemDisplay",
+          "WolframInstitute`NetworkSystem`NetworkSystemEvolutionList",
+          "WolframInstitute`NetworkSystem`NetworkSystemEvolutionPlot"
         }
       },
       {"Documentation", "Language" -> "English"}
