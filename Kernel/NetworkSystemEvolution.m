@@ -20,7 +20,7 @@ CyclicNet::argx = "CyclicNet called with an incorrect number or type of argument
 
 
 arrow[{a_, b_}, n_, tot_] := Module[
-  {dir, rxy, r = 0.05, oset = 0.01, up = {0, Pi}, down = {Pi, 2 Pi}},
+  {dir, rxy, r = 0.1, oset = 0.01, up = {0, Pi}, down = {Pi, 2 Pi}},
   dir = If[b > a, 1, -1];
   rxy = Abs[{(a - b)/2, 0.9*Sqrt[(a - b)/tot]}];
 
