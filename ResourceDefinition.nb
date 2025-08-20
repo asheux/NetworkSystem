@@ -44,7 +44,7 @@ Cell["", "FileManagerTopSpacer",
  CellGroupingRules->{"SectionGrouping", 99},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1848787902,ExpressionUUID->"43fc6ad4-ec30-4b62-981f-0d20edc63ed0"],
+ CellID->1848787902,ExpressionUUID->"de02a597-f9a4-4bb9-80ac-9228b741d376"],
 
 Cell[CellGroupData[{
 
@@ -69,7 +69,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"3a9aa0de-5e3c-421a-bc3b-dc25d0fe6de3"]], \
+   "Text"}]],ExpressionUUID->"5c40379a-45d3-4aa9-9e40-dee9016b96d1"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -80,7 +80,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDocumentationIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->637380471,ExpressionUUID->"95ef9579-7835-4222-9f71-fe98c82883a6"],
+ CellID->637380471,ExpressionUUID->"911c8bdb-0456-4cdb-aba1-b258cf1b473d"],
 
 Cell[CellGroupData[{
 
@@ -105,7 +105,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"00ce8a02-1989-4023-98ec-ccdfa56cacf1"]], \
+   "Text"}]],ExpressionUUID->"db813f4b-065a-4418-973a-b20e4e1f6452"]], \
 "FileManagerDirectory",
  CellMargins->{{23 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 110},
@@ -116,7 +116,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1990355544,ExpressionUUID->"e6a633a9-493e-42ab-a488-8ba8ae5d9911"],
+ CellID->1990355544,ExpressionUUID->"f2835908-b316-49fc-aef1-842613e87f86"],
 
 Cell[TextData[Cell[BoxData[
  InterpretationBox[
@@ -139,7 +139,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "Guides"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"9eb6714e-a3cf-4799-9479-f1cc5649b43b"]], \
+   "Text"}]],ExpressionUUID->"82054a59-18ae-4aa9-9caf-67ca8c91f9d4"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -150,7 +150,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerEmptyDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->552858689,ExpressionUUID->"fb4f484c-a09e-41a6-844f-86166a0bbb95"],
+ CellID->552858689,ExpressionUUID->"ba38ea79-a187-4072-923f-dca657c53461"],
 
 Cell[CellGroupData[{
 
@@ -175,7 +175,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "ReferencePages"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"1049310d-86d7-4f3e-9039-2697993daa3e"]], \
+   "Text"}]],ExpressionUUID->"8861f619-aeda-4025-8f5a-1db16057d045"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -186,7 +186,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1881729101,ExpressionUUID->"44227ede-1148-42a8-b478-f9abd6881f3b"],
+ CellID->1881729101,ExpressionUUID->"8d781419-ebe6-4400-9361-3d51c4f0bfe8"],
 
 Cell[CellGroupData[{
 
@@ -212,7 +212,7 @@ Cell[TextData[Cell[BoxData[
     "Symbols"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"61fe5cd6-00e7-48ef-80d1-63707d5651a2"]], \
+   "Text"}]],ExpressionUUID->"8ec8d3bd-2c9b-4c4a-866f-fd5cd8704d11"]], \
 "FileManagerDirectory",
  CellMargins->{{69 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 130},
@@ -223,7 +223,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->229331138,ExpressionUUID->"7abfc0b6-2dfe-4c0e-8f5e-628cb799a819"],
+ CellID->229331138,ExpressionUUID->"e725b85c-8bea-46cd-8888-b8a354dcfa4b"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -249,7 +249,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1782773648,ExpressionUUID->"c274526b-3c77-4a6a-a9b7-fcbb45d909f7"],
+ CellID->1782773648,ExpressionUUID->"ae14f149-f983-4732-a3b3-6968fd72d6b6"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -275,7 +275,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1410114484,ExpressionUUID->"121ec272-de6c-4a07-8a17-b0859f1d798a"],
+ CellID->1410114484,ExpressionUUID->"62c47520-d25f-47b0-bf09-6dae4e4ba4a3"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -301,7 +301,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->164604296,ExpressionUUID->"3e64d829-79cc-438e-8d4c-48c6ece539fc"],
+ CellID->164604296,ExpressionUUID->"3c8427e8-c33b-4703-a558-decef66f86e1"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -327,7 +327,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->545465536,ExpressionUUID->"fd911778-2f17-4924-b44c-cba845e43997"],
+ CellID->545465536,ExpressionUUID->"7d645c37-94ec-4575-af10-f5997f1cf425"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -353,7 +353,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->31574509,ExpressionUUID->"a52142e4-17c2-44d9-af2a-2d890ab39707"]
+ CellID->31574509,ExpressionUUID->"3f8584cf-2d43-4da8-bc3e-fa415790aa35"]
 }, Open  ]]
 }, Open  ]],
 
@@ -378,7 +378,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "Tutorials"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"2988e668-bbcf-4d24-94c1-bada691e2ade"]], \
+   "Text"}]],ExpressionUUID->"8cfb4169-4026-43ae-a10b-1653872b6c4a"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -389,7 +389,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerEmptyDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->807829663,ExpressionUUID->"ef19de55-e31a-4107-b853-b6d490d5cabd"]
+ CellID->807829663,ExpressionUUID->"33d00b77-83b5-41d6-b2ad-c16e80ab666c"]
 }, Open  ]]
 }, Open  ]],
 
@@ -416,7 +416,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Kernel"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"28015d06-6982-4591-b989-4792ebab3a7e"]], \
+   "Text"}]],ExpressionUUID->"0e0f061a-3737-4dab-8777-1081586f838c"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -427,7 +427,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerKernelIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->805144861,ExpressionUUID->"771d9871-84d6-4ee5-8d04-3015d39f4e2e"],
+ CellID->805144861,ExpressionUUID->"9b9e8ad9-7735-4f24-9aa3-a1ed91305769"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -451,7 +451,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1059329836,ExpressionUUID->"ed0db50c-ff1f-45e9-8e56-b20204031cbe"],
+ CellID->1059329836,ExpressionUUID->"8f7c5033-5588-4e74-8d84-24508002714b"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -475,7 +475,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1517120022,ExpressionUUID->"79515673-b8f7-4655-a6ba-1586b9ff2dc2"],
+ CellID->1517120022,ExpressionUUID->"382a7af2-5d8b-441d-b588-30cb4905c108"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -499,7 +499,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1162868923,ExpressionUUID->"3b11e193-1ae5-4c56-95b1-224b3d59075b"]
+ CellID->1162868923,ExpressionUUID->"c066e562-cdf1-4604-b7f8-f97f30a21eb7"]
 }, Open  ]],
 
 Cell[BoxData[
@@ -524,7 +524,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerUnknownIconTemplate"]], Background -> None],
      Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1538300445,ExpressionUUID->"7ed28aa5-bc94-46c8-938f-55a812cc00f2"],
+ CellID->1538300445,ExpressionUUID->"9e72f97a-6543-4d1a-bea9-8523a02280f0"],
 
 Cell[CellGroupData[{
 
@@ -549,7 +549,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Notebooks"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"b741788c-f2c2-4fe8-97c3-1d6b534eb0c7"]], \
+   "Text"}]],ExpressionUUID->"3e03a019-4a0a-4f2a-95eb-b677ef4be5cd"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -560,7 +560,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->521937243,ExpressionUUID->"cf4b3131-0888-4f84-a5d9-f0e450fd9360"],
+ CellID->521937243,ExpressionUUID->"1aab45ec-9827-4a65-9764-9cc061ef2f2c"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -584,7 +584,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1876028753,ExpressionUUID->"48abb6cf-07c1-4548-8bea-59893e8bb091"],
+ CellID->1876028753,ExpressionUUID->"0c550410-90cc-4ac9-b4a4-30a449933b56"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -608,7 +608,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->659952882,ExpressionUUID->"13fad085-7ca0-474c-acc5-17e03b4d2ec9"]
+ CellID->659952882,ExpressionUUID->"b6c29952-f519-4152-ba86-6ee5689e94f7"]
 }, Open  ]],
 
 Cell[BoxData[
@@ -633,7 +633,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerPacletInfoIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->323791211,ExpressionUUID->"3e020c70-807d-492d-9bb8-e272d2a6e15d"],
+ CellID->323791211,ExpressionUUID->"247a8886-d07c-4a8e-a0fe-8f8735173d8a"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -657,7 +657,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerTXTIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1063987708,ExpressionUUID->"afd34abb-2d72-4646-9957-473c2679abca"],
+ CellID->1063987708,ExpressionUUID->"f8197e97-866c-45e5-ac7a-afca27f2ba9a"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -681,13 +681,13 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->235321779,ExpressionUUID->"59d2b151-91ce-481d-b74b-1f3ce9a85045"],
+ CellID->235321779,ExpressionUUID->"d6325279-42a8-4207-b1c2-7610c901489e"],
 
 Cell["", "FileManagerBottomSpacer",
  CellGroupingRules->{"SectionGrouping", 100},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1535745526,ExpressionUUID->"eb0ce9b1-96e3-48d3-8bec-daa16ee8316a"]
+ CellID->1535745526,ExpressionUUID->"2f624da7-4598-4497-82f7-1921ae7163b1"]
 }, Open  ]]
 }, Open  ]],
 
@@ -6796,7 +6796,7 @@ Cell[BoxData[
    RowBox[{"NotebookDirectory", "[", "]"}], "]"}], ";"}]], "Input", "Excluded",
  TaggingRules->{},
  InitializationCell->True,
- CellLabel->"In[1]:=",
+ CellLabel->"In[3]:=",
  CellID->996717066,ExpressionUUID->"f98e874b-787e-443e-86ff-85661e5beae3"],
 
 Cell[BoxData[
@@ -6832,7 +6832,7 @@ Cell[BoxData[
  TaggingRules->{},
  CellChangeTimes->{3.9518476485755987`*^9, 3.951938851402458*^9},
  CellTags->"DefaultContent",
- CellLabel->"In[41]:=",
+ CellLabel->"In[4]:=",
  CellID->593829399,ExpressionUUID->"9c025ccd-09f0-410c-a838-fcb9f060477d"],
 
 Cell[BoxData[
@@ -6858,10 +6858,10 @@ Cell[BoxData[
   "}"}]], "Output",
  TaggingRules->{},
  CellChangeTimes->{3.951847650124013*^9, 3.952170658447504*^9, 
-  3.952182728485856*^9},
+  3.952182728485856*^9, 3.9646393885745897`*^9},
  CellTags->"DefaultContent",
- CellLabel->"Out[41]=",
- CellID->811185422,ExpressionUUID->"611d3d63-7d2b-4e53-96b5-24621b5f948d"]
+ CellLabel->"Out[4]=",
+ CellID->1533182192,ExpressionUUID->"c77a5900-8ac5-4100-a315-f891a1bd68a7"]
 }, Open  ]],
 
 Cell["Get initial net:", "Text",
@@ -6875,7 +6875,7 @@ Cell[BoxData[
  RowBox[{"CyclicNet", "[", "5", "]"}]], "Input",
  TaggingRules->{},
  CellChangeTimes->{{3.951847845412044*^9, 3.9518478610607233`*^9}},
- CellLabel->"In[42]:=",
+ CellLabel->"In[5]:=",
  CellID->2034297083,ExpressionUUID->"28709a54-2353-4367-93c0-427bd37ed03f"],
 
 Cell[BoxData[
@@ -6893,9 +6893,9 @@ Cell[BoxData[
     RowBox[{"4", ",", "1"}], "}"}]}], "}"}]], "Output",
  TaggingRules->{},
  CellChangeTimes->{3.951847861666353*^9, 3.952170660476327*^9, 
-  3.95218273183704*^9},
- CellLabel->"Out[42]=",
- CellID->322603572,ExpressionUUID->"1176b348-f36b-4eeb-b0f5-4de5a1b6f744"]
+  3.95218273183704*^9, 3.964639390709914*^9},
+ CellLabel->"Out[5]=",
+ CellID->364744288,ExpressionUUID->"48a75a78-403d-4a18-a841-769bf9fa5559"]
 }, Open  ]],
 
 Cell["Get all state list:", "Text",
@@ -6914,7 +6914,7 @@ Cell[BoxData[
  TaggingRules->{},
  CellChangeTimes->{{3.9518478828648243`*^9, 3.951847901284833*^9}, 
    3.951938859314322*^9, 3.951938931428831*^9},
- CellLabel->"In[43]:=",
+ CellLabel->"In[6]:=",
  CellID->321709625,ExpressionUUID->"46b1da69-2e3f-4191-acc5-8bbb0a9cd5b7"],
 
 Cell[BoxData[
@@ -7109,9 +7109,9 @@ Cell[BoxData[
  
  TaggingRules->{},
  CellChangeTimes->{3.951847903628134*^9, 3.9521706651414623`*^9, 
-  3.9521827340169992`*^9},
- CellLabel->"Out[43]=",
- CellID->2066584931,ExpressionUUID->"a07b989a-31a7-4340-aa05-3f57da1364ce"]
+  3.9521827340169992`*^9, 3.964639392894828*^9},
+ CellLabel->"Out[6]=",
+ CellID->543394949,ExpressionUUID->"81013b46-a115-4b22-9f3b-da59fd0b8ff5"]
 }, Open  ]],
 
 Cell["Plot network evolution:", "Text",
@@ -7126,11 +7126,13 @@ Cell[BoxData[
   RowBox[{
    RowBox[{"NetworkSystemRule", "[", 
     RowBox[{"219", ",", "1"}], "]"}], ",", 
-   RowBox[{"CyclicNet", "[", "5", "]"}], ",", "2"}], "]"}]], "Input",
+   RowBox[{"CyclicNet", "[", "5", "]"}], ",", "2", ",", 
+   RowBox[{"\"\<ImageSize\>\"", "->", "Large"}]}], "]"}]], "Input",
  TaggingRules->{},
  CellChangeTimes->{{3.951847945857881*^9, 3.951847963369335*^9}, 
-   3.951938868015942*^9, 3.9519389273019114`*^9},
- CellLabel->"In[44]:=",
+   3.951938868015942*^9, 3.9519389273019114`*^9, {3.9646394029301023`*^9, 
+   3.964639414408259*^9}},
+ CellLabel->"In[9]:=",
  CellID->1665799813,ExpressionUUID->"e09e74d1-9b3c-44e4-b547-0f210049fbf7"],
 
 Cell[BoxData[
@@ -7155,17 +7157,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{1, 0}], 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{3, 0}, {2., 0.8049844718999243}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
            NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -7175,9 +7173,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{2, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
            NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -7185,9 +7181,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
            NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -7197,9 +7191,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{3, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
            NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -7207,9 +7199,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
            NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -7219,9 +7209,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{4, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
            NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -7229,9 +7217,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
            NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -7241,9 +7227,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{5, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
            NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -7251,9 +7235,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[{3, 0}, {2., 0.8049844718999243}, 
            NCache[{Pi, 2 Pi}, {3.141592653589793, 6.283185307179586}]]]}}, {{{
@@ -7262,17 +7244,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{1, 0}], 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{5, 0}, {4., 0.8049844718999243}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
            NCache[{Rational[1, 2], 0.28460498941515416`}, {0.5, 
@@ -7282,18 +7260,14 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{2, 0}], 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[11, 2], 0}, {5.5, 0}], 
            NCache[{Rational[7, 2], 0.752994023880668}, {3.5, 
             0.752994023880668}], NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
            NCache[{Rational[1, 2], 0.28460498941515416`}, {0.5, 
@@ -7303,17 +7277,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{3, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{2, 0}, {1., 0.40249223594996214}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
            NCache[{Rational[1, 2], 0.28460498941515416`}, {0.5, 
@@ -7323,9 +7293,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{4, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
            NCache[{Rational[3, 2], 0.4929503017546495}, {1.5, 
@@ -7333,9 +7301,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
            NCache[{Rational[1, 2], 0.28460498941515416`}, {0.5, 
@@ -7345,17 +7311,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{5, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{4, 0}, {1., 0.40249223594996214}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[11, 2], 0}, {5.5, 0}], 
            NCache[{Rational[1, 2], 0.28460498941515416`}, {0.5, 
@@ -7365,9 +7327,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{6, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
            NCache[{Rational[3, 2], 0.4929503017546495}, {1.5, 
@@ -7375,9 +7335,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[13, 2], 0}, {6.5, 0}], 
            NCache[{Rational[1, 2], 0.28460498941515416`}, {0.5, 
@@ -7387,17 +7345,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{7, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{6, 0}, {1., 0.40249223594996214}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[15, 2], 0}, {7.5, 0}], 
            NCache[{Rational[1, 2], 0.28460498941515416`}, {0.5, 
@@ -7407,9 +7361,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{8, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[13, 2], 0}, {6.5, 0}], 
            NCache[{Rational[3, 2], 0.4929503017546495}, {1.5, 
@@ -7417,9 +7369,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[17, 2], 0}, {8.5, 0}], 
            NCache[{Rational[1, 2], 0.28460498941515416`}, {0.5, 
@@ -7429,16 +7379,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{9, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{8, 0}, {1., 0.40249223594996214}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[19, 2], 0}, {9.5, 0}], 
            NCache[{Rational[1, 2], 0.28460498941515416`}, {0.5, 
@@ -7448,9 +7395,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{10, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[17, 2], 0}, {8.5, 0}], 
            NCache[{Rational[3, 2], 0.4929503017546495}, {1.5, 
@@ -7458,9 +7403,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[11, 2], 0}, {5.5, 0}], 
            NCache[{Rational[9, 2], 0.8538149682454625}, {4.5, 
@@ -7471,17 +7414,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{1, 0}], 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{9, 0}, {8., 0.8049844718999243}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7491,9 +7430,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{2, 0}], 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[19, 2], 0}, {9.5, 0}], 
            NCache[{Rational[15, 2], 0.7794228634059948}, {7.5, 
@@ -7501,9 +7438,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7513,17 +7448,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{3, 0}], 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{10, 0}, {7., 0.752994023880668}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7533,9 +7464,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{4, 0}], 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[21, 2], 0}, {10.5, 0}], 
            NCache[{Rational[13, 2], 0.7256031973468695}, {6.5, 
@@ -7543,9 +7472,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7555,17 +7482,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{5, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{3, 0}, {2., 0.40249223594996214}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[11, 2], 0}, {5.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7575,18 +7498,14 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{6, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
            NCache[{Rational[5, 2], 0.45}, {2.5, 0.45}], 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[13, 2], 0}, {6.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7596,17 +7515,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{7, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{4, 0}, {3., 0.4929503017546495}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[15, 2], 0}, {7.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7616,9 +7531,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{8, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
            NCache[{Rational[7, 2], 0.5324471804789654}, {3.5, 
@@ -7626,9 +7539,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[17, 2], 0}, {8.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7638,17 +7549,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{9, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{7, 0}, {2., 0.40249223594996214}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[19, 2], 0}, {9.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7658,18 +7565,14 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{10, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[15, 2], 0}, {7.5, 0}], 
            NCache[{Rational[5, 2], 0.45}, {2.5, 0.45}], 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[21, 2], 0}, {10.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7679,17 +7582,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{11, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{8, 0}, {3., 0.4929503017546495}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[23, 2], 0}, {11.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7699,9 +7598,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{12, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[17, 2], 0}, {8.5, 0}], 
            NCache[{Rational[7, 2], 0.5324471804789654}, {3.5, 
@@ -7709,9 +7606,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[25, 2], 0}, {12.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7721,17 +7616,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{13, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{11, 0}, {2., 0.40249223594996214}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[27, 2], 0}, {13.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7741,18 +7632,14 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{14, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[23, 2], 0}, {11.5, 0}], 
            NCache[{Rational[5, 2], 0.45}, {2.5, 0.45}], 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[29, 2], 0}, {14.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7762,17 +7649,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{15, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{12, 0}, {3., 0.4929503017546495}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[31, 2], 0}, {15.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7782,9 +7665,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{16, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[25, 2], 0}, {12.5, 0}], 
            NCache[{Rational[7, 2], 0.5324471804789654}, {3.5, 
@@ -7792,9 +7673,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[33, 2], 0}, {16.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7804,17 +7683,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{17, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{15, 0}, {2., 0.40249223594996214}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[35, 2], 0}, {17.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7824,18 +7699,14 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{18, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[31, 2], 0}, {15.5, 0}], 
            NCache[{Rational[5, 2], 0.45}, {2.5, 0.45}], 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[37, 2], 0}, {18.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7845,17 +7716,13 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{19, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[{16, 0}, {3., 0.4929503017546495}, 
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[39, 2], 0}, {19.5, 0}], 
            NCache[{Rational[1, 2], 0.20124611797498107`}, {0.5, 
@@ -7865,9 +7732,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{20, 0}], 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-               0}, {-0.060000000000000005`, -0.05}}]]}}], 
+             LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[33, 2], 0}, {16.5, 0}], 
            NCache[{Rational[7, 2], 0.5324471804789654}, {3.5, 
@@ -7875,22 +7740,21 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
-             
-             LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-               0.060000000000000005`, 0.05}}]]}}], 
+             LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
          ArrowBox[
           CircleBox[NCache[{Rational[21, 2], 0}, {10.5, 0}], 
            NCache[{Rational[19, 2], 0.8772114910328067}, {9.5, 
             0.8772114910328067}], 
            NCache[{Pi, 2 Pi}, {3.141592653589793, 6.283185307179586}]]]}}, {{{
         1, 0}, {0, 1}}, {0, 0}}]}, {0, -6}]}},
-  ImageSize->{704.0341796875, Automatic},
+  ImageSize->Large,
   PlotRange->{{0.5, 20.5}, All}]], "Output",
  TaggingRules->{},
  CellChangeTimes->{{3.951847948675498*^9, 3.951847964109406*^9}, 
-   3.9521706685248833`*^9, 3.9521827362530203`*^9},
- CellLabel->"Out[44]=",
- CellID->1356469879,ExpressionUUID->"545925b5-abe1-4be5-af2c-0662bffccd51"]
+   3.9521706685248833`*^9, 3.9521827362530203`*^9, {3.9646393954220667`*^9, 
+   3.964639414948732*^9}},
+ CellLabel->"Out[9]=",
+ CellID->1222705748,ExpressionUUID->"8c0bfa08-6046-4e44-b9ff-d65e359ae5b7"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -8685,6 +8549,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{Automatic, 0.5, 
             GraphicsBox[
+             
              LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
                0.060000000000000005`, 0.05}}]]}}], 
          ArrowBox[
@@ -10378,6 +10243,7 @@ Cell[BoxData[
            NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
+             
              LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
                0.060000000000000005`, 0.05}}]]}}], 
          ArrowBox[
@@ -11245,7 +11111,6 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{5, 0}], 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
-             
              LineBox[{{-0.060000000000000005`, 0.05}, {0, 
                0}, {-0.060000000000000005`, -0.05}}]]}}], 
          ArrowBox[
@@ -11284,6 +11149,7 @@ Cell[BoxData[
        {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{7, 0}], 
         {Arrowheads[{{-Automatic, 0.5, 
             GraphicsBox[
+             
              LineBox[{{-0.060000000000000005`, 0.05}, {0, 
                0}, {-0.060000000000000005`, -0.05}}]]}}], 
          ArrowBox[
@@ -12730,6 +12596,7 @@ Cell[BoxData[
             NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
          {Arrowheads[{{-Automatic, 0.5, 
              GraphicsBox[
+              
               LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
                 0.060000000000000005`, 0.05}}]]}}], 
           ArrowBox[
@@ -12793,7 +12660,6 @@ Cell[BoxData[
              0.5775200531277731}], NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
          {Arrowheads[{{-Automatic, 0.5, 
              GraphicsBox[
-              
               LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
                 0.060000000000000005`, 0.05}}]]}}], 
           ArrowBox[
@@ -12956,15 +12822,17 @@ Cell[BoxData[
            RowBox[{"#", ",", 
             RowBox[{"CyclicNet", "[", "tot", "]"}], ",", 
             RowBox[{"tot", "+", "1"}], ",", 
-            RowBox[{"\"\<SimpleNet\>\"", "->", "True"}]}], "]"}], ",", 
+            RowBox[{"\"\<SimpleNet\>\"", "->", "True"}], ",", 
+            RowBox[{"\"\<ArrowSize\>\"", "->", "0.1"}]}], "]"}], ",", 
           RowBox[{"Frame", "->", "True"}], ",", 
           RowBox[{"FrameTicks", "->", "None"}]}], "]"}], "&"}], ",", 
        "rules"}], "]"}], ",", 
      RowBox[{"PlotRange", "->", "Automatic"}]}], "]"}]}], 
   "\[IndentingNewLine]", "]"}]], "Input",
  TaggingRules->{},
- CellChangeTimes->{{3.9521708563303337`*^9, 3.9521708799252357`*^9}},
- CellLabel->"In[50]:=",
+ CellChangeTimes->{{3.9521708563303337`*^9, 3.9521708799252357`*^9}, {
+  3.964639439909501*^9, 3.9646394470187473`*^9}},
+ CellLabel->"In[11]:=",
  CellID->1034971607,ExpressionUUID->"c5664e4c-8470-41e8-b1f2-aaf168589501"],
 
 Cell[BoxData[
@@ -12989,19 +12857,15 @@ Cell[BoxData[
         GeometricTransformationBox[{GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{1, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13011,21 +12875,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{2, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13035,21 +12895,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{3, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13059,21 +12915,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{4, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13083,21 +12935,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{5, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -13106,11 +12954,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{1, 0}], 
             CircleBox[NCache[{1, Rational[1, 6]}, {1, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13121,11 +12967,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{2, 0}], 
             CircleBox[NCache[{2, Rational[1, 6]}, {2, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13136,11 +12980,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{3, 0}], 
             CircleBox[NCache[{3, Rational[1, 6]}, {3, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13151,11 +12993,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{4, 0}], 
             CircleBox[NCache[{4, Rational[1, 6]}, {4, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13166,11 +13006,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{5, 0}], 
             CircleBox[NCache[{5, Rational[1, 6]}, {5, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -13178,21 +13016,17 @@ Cell[BoxData[
          0, -4}], GeometricTransformationBox[{GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{1, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13202,21 +13036,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{2, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13226,21 +13056,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{3, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13250,21 +13076,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{4, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13274,19 +13096,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{5, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -13294,19 +13112,15 @@ Cell[BoxData[
          0, -6}], GeometricTransformationBox[{GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{1, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{2, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13316,19 +13130,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{2, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13338,19 +13148,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{3, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{4, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13360,21 +13166,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{4, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[3, 2], 0.6971370023173351}, {1.5, 
                 0.6971370023173351}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13384,21 +13186,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{5, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[3, 2], 0.6971370023173351}, {1.5, 
                 0.6971370023173351}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -13406,21 +13204,17 @@ Cell[BoxData[
          0, -8}], GeometricTransformationBox[{GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{1, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[3, 2], 0.6971370023173351}, {1.5, 
                 0.6971370023173351}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13430,21 +13224,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{2, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[3, 2], 0.6971370023173351}, {1.5, 
                 0.6971370023173351}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13454,19 +13244,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{3, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{2, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13476,19 +13262,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{4, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13498,19 +13280,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{5, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{4, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -13518,19 +13296,15 @@ Cell[BoxData[
          0, -10}], GeometricTransformationBox[{GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{1, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13540,21 +13314,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{2, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13564,21 +13334,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{3, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13588,21 +13354,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{4, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13612,21 +13374,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{5, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -13635,11 +13393,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{1, 0}], 
             CircleBox[NCache[{1, Rational[1, 6]}, {1, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13650,11 +13406,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{2, 0}], 
             CircleBox[NCache[{2, Rational[1, 6]}, {2, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13665,11 +13419,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{3, 0}], 
             CircleBox[NCache[{3, Rational[1, 6]}, {3, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13680,11 +13432,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{4, 0}], 
             CircleBox[NCache[{4, Rational[1, 6]}, {4, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13695,11 +13445,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{5, 0}], 
             CircleBox[NCache[{5, Rational[1, 6]}, {5, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -13709,6 +13457,7 @@ Cell[BoxData[
       Frame->True,
       FrameTicks->None,
       ImagePadding->{{0.5, 1.5}, {1.5, 0.5}},
+      ImageSize->Automatic,
       PlotRange->{{0.5, 5.5}, All}], {80.34148999723315, -219.40420658408195},
       ImageScaled[{0.5, 0.5}], {148.6829799944663, 417.91277444587035},
      BaseStyle->{Graphics3DBoxOptions -> {SphericalRegion -> False}}], 
@@ -13733,19 +13482,15 @@ Cell[BoxData[
         GeometricTransformationBox[{GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{1, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13755,21 +13500,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{2, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13779,21 +13520,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{3, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13803,21 +13540,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{4, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13827,21 +13560,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{5, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -13849,21 +13578,17 @@ Cell[BoxData[
          0, -2}], GeometricTransformationBox[{GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{1, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[3, 2], 0.6971370023173351}, {1.5, 
                 0.6971370023173351}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13873,21 +13598,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{2, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[3, 2], 0.6971370023173351}, {1.5, 
                 0.6971370023173351}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13897,19 +13618,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{3, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{2, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13919,19 +13636,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{4, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13941,19 +13654,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{5, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{4, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -13961,21 +13670,17 @@ Cell[BoxData[
          0, -4}], GeometricTransformationBox[{GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{1, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -13985,21 +13690,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{2, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14009,21 +13710,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{3, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14033,21 +13730,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{4, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14057,19 +13750,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{5, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -14077,19 +13766,15 @@ Cell[BoxData[
          0, -6}], GeometricTransformationBox[{GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{1, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{2, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14099,19 +13784,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{2, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14121,19 +13802,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{3, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{4, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14143,21 +13820,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{4, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[3, 2], 0.6971370023173351}, {1.5, 
                 0.6971370023173351}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14167,21 +13840,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{5, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[3, 2], 0.6971370023173351}, {1.5, 
                 0.6971370023173351}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -14189,19 +13858,15 @@ Cell[BoxData[
          0, -8}], GeometricTransformationBox[{GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{1, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14211,21 +13876,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{2, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14235,20 +13896,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{3, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14258,21 +13916,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{4, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14282,21 +13936,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{5, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -14304,21 +13954,17 @@ Cell[BoxData[
          0, -10}], GeometricTransformationBox[{GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{1, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[3, 2], 0.6971370023173351}, {1.5, 
                 0.6971370023173351}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14328,21 +13974,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{2, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[3, 2], 0.6971370023173351}, {1.5, 
                 0.6971370023173351}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14352,19 +13994,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{3, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{2, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14374,19 +14012,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{4, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14396,19 +14030,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{5, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{4, 0}, {1., 0.5692099788303083}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -14416,21 +14046,17 @@ Cell[BoxData[
          0, -12}], GeometricTransformationBox[{GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{1, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14440,21 +14066,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{2, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14464,21 +14086,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{3, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14488,21 +14106,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{4, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14512,19 +14126,15 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{5, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -14534,6 +14144,7 @@ Cell[BoxData[
       Frame->True,
       FrameTicks->None,
       ImagePadding->{{0.5, 1.5}, {1.5, 0.5}},
+      ImageSize->Automatic,
       PlotRange->{{0.5, 5.5}, All}], {241.02446999169945, -219.40420658408195},
       ImageScaled[{0.5, 0.5}], {148.6829799944663, 417.91277444587035},
      BaseStyle->{Graphics3DBoxOptions -> {SphericalRegion -> False}}], 
@@ -14558,19 +14169,15 @@ Cell[BoxData[
         GeometricTransformationBox[{GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{1, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14580,21 +14187,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{2, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14604,21 +14207,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{3, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14628,21 +14227,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{4, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14652,21 +14247,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{5, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -14675,11 +14266,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{1, 0}], 
             CircleBox[NCache[{1, Rational[1, 6]}, {1, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14690,11 +14279,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{2, 0}], 
             CircleBox[NCache[{2, Rational[1, 6]}, {2, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14705,11 +14292,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{3, 0}], 
             CircleBox[NCache[{3, Rational[1, 6]}, {3, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14720,11 +14305,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{4, 0}], 
             CircleBox[NCache[{4, Rational[1, 6]}, {4, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14735,11 +14318,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{5, 0}], 
             CircleBox[NCache[{5, Rational[1, 6]}, {5, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -14748,11 +14329,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{1, 0}], 
             CircleBox[NCache[{1, Rational[1, 6]}, {1, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14763,11 +14342,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{2, 0}], 
             CircleBox[NCache[{2, Rational[1, 6]}, {2, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14778,11 +14355,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{3, 0}], 
             CircleBox[NCache[{3, Rational[1, 6]}, {3, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14793,11 +14368,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{4, 0}], 
             CircleBox[NCache[{4, Rational[1, 6]}, {4, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14808,11 +14381,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{5, 0}], 
             CircleBox[NCache[{5, Rational[1, 6]}, {5, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -14821,11 +14392,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{1, 0}], 
             CircleBox[NCache[{1, Rational[1, 6]}, {1, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14836,11 +14405,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{2, 0}], 
             CircleBox[NCache[{2, Rational[1, 6]}, {2, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14851,11 +14418,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{3, 0}], 
             CircleBox[NCache[{3, Rational[1, 6]}, {3, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14866,11 +14431,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{4, 0}], 
             CircleBox[NCache[{4, Rational[1, 6]}, {4, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14881,11 +14444,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{5, 0}], 
             CircleBox[NCache[{5, Rational[1, 6]}, {5, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -14894,11 +14455,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{1, 0}], 
             CircleBox[NCache[{1, Rational[1, 6]}, {1, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14909,11 +14468,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{2, 0}], 
             CircleBox[NCache[{2, Rational[1, 6]}, {2, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14924,11 +14481,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{3, 0}], 
             CircleBox[NCache[{3, Rational[1, 6]}, {3, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14939,11 +14494,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{4, 0}], 
             CircleBox[NCache[{4, Rational[1, 6]}, {4, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14954,11 +14507,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{5, 0}], 
             CircleBox[NCache[{5, Rational[1, 6]}, {5, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -14967,11 +14518,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{1, 0}], 
             CircleBox[NCache[{1, Rational[1, 6]}, {1, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14982,11 +14531,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{2, 0}], 
             CircleBox[NCache[{2, Rational[1, 6]}, {2, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -14997,11 +14544,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{3, 0}], 
             CircleBox[NCache[{3, Rational[1, 6]}, {3, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -15012,11 +14557,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{4, 0}], 
             CircleBox[NCache[{4, Rational[1, 6]}, {4, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -15027,10 +14570,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{5, 0}], 
             CircleBox[NCache[{5, Rational[1, 6]}, {5, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -15039,11 +14581,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{1, 0}], 
             CircleBox[NCache[{1, Rational[1, 6]}, {1, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -15054,11 +14594,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{2, 0}], 
             CircleBox[NCache[{2, Rational[1, 6]}, {2, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -15069,11 +14607,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{3, 0}], 
             CircleBox[NCache[{3, Rational[1, 6]}, {3, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -15084,11 +14620,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{4, 0}], 
             CircleBox[NCache[{4, Rational[1, 6]}, {4, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -15099,11 +14633,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{5, 0}], 
             CircleBox[NCache[{5, Rational[1, 6]}, {5, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -15113,6 +14645,7 @@ Cell[BoxData[
       Frame->True,
       FrameTicks->None,
       ImagePadding->{{0.5, 1.5}, {1.5, 0.5}},
+      ImageSize->Automatic,
       PlotRange->{{0.5, 5.5}, All}], {401.7074499861658, -219.40420658408195},
       ImageScaled[{0.5, 0.5}], {148.6829799944663, 417.91277444587035},
      BaseStyle->{Graphics3DBoxOptions -> {SphericalRegion -> False}}], 
@@ -15137,19 +14670,15 @@ Cell[BoxData[
         GeometricTransformationBox[{GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{1, 0}], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -15159,21 +14688,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{2, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -15183,21 +14708,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{3, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -15207,21 +14728,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{4, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -15231,21 +14748,17 @@ Cell[BoxData[
           GeometricTransformationBox[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], 
             PointBox[{5, 0}], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{-0.060000000000000005`, 0.05}, {0, 
-                   0}, {-0.060000000000000005`, -0.05}}]]}}], 
+                 LineBox[{{-0.11, 0.1}, {0, 0}, {-0.11, -0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
                 0.40249223594996214`}], 
                NCache[{0, Pi}, {0, 3.141592653589793}]]]}, 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -15254,11 +14767,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{1, 0}], 
             CircleBox[NCache[{1, Rational[1, 6]}, {1, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{-Automatic, 0.5, 
+            {Arrowheads[{{-0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[{3, 0}, {2., 0.8049844718999243}, 
                NCache[{Pi, 2 Pi}, {3.141592653589793, 
@@ -15267,11 +14778,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{2, 0}], 
             CircleBox[NCache[{2, Rational[1, 6]}, {2, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[3, 2], 0}, {1.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -15282,11 +14791,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{3, 0}], 
             CircleBox[NCache[{3, Rational[1, 6]}, {3, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[5, 2], 0}, {2.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -15297,11 +14804,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{4, 0}], 
             CircleBox[NCache[{4, Rational[1, 6]}, {4, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[7, 2], 0}, {3.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -15312,11 +14817,9 @@ Cell[BoxData[
            {AbsolutePointSize[2.5], AbsoluteThickness[0.8], PointBox[{5, 0}], 
             CircleBox[NCache[{5, Rational[1, 6]}, {5, 0.16666666666666666`}], 
              NCache[Rational[1, 6], 0.16666666666666666`]], 
-            {Arrowheads[{{Automatic, 0.5, 
+            {Arrowheads[{{0.1, 0.5, 
                 GraphicsBox[
-                 
-                 LineBox[{{0.060000000000000005`, -0.05}, {0, 0}, {
-                   0.060000000000000005`, 0.05}}]]}}], 
+                 LineBox[{{0.11, -0.1}, {0, 0}, {0.11, 0.1}}]]}}], 
              ArrowBox[
               CircleBox[NCache[{Rational[9, 2], 0}, {4.5, 0}], 
                NCache[{Rational[1, 2], 0.40249223594996214`}, {0.5, 
@@ -15507,6 +15010,7 @@ Cell[BoxData[
       Frame->True,
       FrameTicks->None,
       ImagePadding->{{0.5, 1.5}, {1.5, 0.5}},
+      ImageSize->Automatic,
       PlotRange->{{0.5, 5.5}, All}], {565.0244699916994, -219.40420658408195},
       ImageScaled[{0.5, 0.5}], {153.95106001660113, 417.91277444587035},
      BaseStyle->{Graphics3DBoxOptions -> {SphericalRegion -> False}}]}, {}},
@@ -15515,9 +15019,11 @@ Cell[BoxData[
   PlotRange->{{0, 648.}, {-438.8084131681639, 0}},
   PlotRangePadding->Automatic]], "Output",
  TaggingRules->{},
- CellChangeTimes->{3.952170883960143*^9, 3.952182761381474*^9},
- CellLabel->"Out[50]=",
- CellID->1542654812,ExpressionUUID->"20630b59-0ac8-450a-aacd-96b350fc73a1"]
+ CellChangeTimes->{
+  3.952170883960143*^9, 3.952182761381474*^9, {3.964639434676063*^9, 
+   3.964639448849504*^9}},
+ CellLabel->"Out[11]=",
+ CellID->1931570291,ExpressionUUID->"48f55f18-38cd-4ee8-b832-7365b86e1c98"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]],
@@ -16537,6 +16043,7 @@ Cell[TextData[{
        FrameBox[
         Cell[
          TextData[{
+          
           "Select all evaluation environments where your paclet is expected \
 to be compatible. See ", 
            Cell[
@@ -17393,6 +16900,7 @@ Cell[BoxData[
                    Cell[
                     
                     TextData[{
+                    
                     "Choose this option if your paclet directly does any of \
 the following:\n\[FilledSmallSquare] Modifies OS settings\n\
 \[FilledSmallSquare] Makes any use of ", 
@@ -17730,26 +17238,27 @@ Fu6DuJJG2H9mK2QZ3X1Y8rjKVdsLU11Qbnfn/Mae/TiO1RZHs2bny+6Vwq5Sfi8TnHKi+1+K4NOh"]\
   "PacletBuildData" -> {
    "LastBuiltArchive" -> 
     "/Users/nitrika/Projects/Mywork/wolframlanguage/WolframInstitute/\
-NetworkSystem/build/WolframInstitute__NetworkSystem-1.0.4.paclet", 
+NetworkSystem/build/WolframInstitute__NetworkSystem-1.0.7.paclet", 
     "FileHashes" -> ByteArray[CompressedData["
-1:eJwB/QIC/SFib1JiAQAAAPACAAA4Qzp4nHOU1g1WcslPLs1NzStJLMnMz9N3
+1:eJwBIgPd/CFib1JiAQAAABUDAAA4Qzp4nHOU1Q1WcslPLs1NzStJLMnMz9N3
 zUvPySzO0PfMS0mt0I830EtOK3Zk0g1mC84vLUpOLWbxy89LBXJDEovSU0t8
-frHltPDvX+StG6yGz5zi1HSQVHG8MR6zTnlIaE+5UMSvG6xBjFl66al5eEx7
-q1EnoPv0iblusCV204JS01KLUvOSUwMS01OL9YMrc5Pyc4r1nSuTczKT/VJL
-9PKSkIz3MdOo4mC2ZXRH2GCTdUtHNORPhm6wC0k2AM0uzy/KDq4sLknNdcks
-LshJrESzjL29Q/j21NduCMsSWx94Tyouk9IN9iLfMtey/JxSkC6fzGJ0/+28
-f8vxc/IcJ4SVrS+bViWe8/GijpUBOfnoVqqwiRVUTfiZj7Ay6ZdzySv9/XG6
-wY7kWxlUmpOKZpNftGxaIsMmZ4RNFf6741kXvlfSDdbCblNwamJRcgYkyZlC
-MkIqnuS2KsLyGROrXCop5uHLWDVpz4Tu27cARTSJNK84E49xx18W+UQfS+PQ
-DdYlxri0zNSclGK98hw8Rs5VFpC40/BRUzfYhBgjM0G0b2pJYkpiSSJ+k72U
-OzVnuVgx6wbrEWMyvHAxwmPmD4l1Ow9M2qBHpJnlRZklqXo5+cnZeMy8aD3p
-yQW/dlbdYHUcZhak5uRAS1IjQiXpZGlt2ZlyFbrB2gQNg/vYHI+BBS/1VrNy
-G5XhjnJMAwmUqbFbucIDN3ABPSznnVqUl5qjr+fngpL3gBGrV1xegJz3bjQu
-vrj1vWUUwhiEiDzUGOxFhl4usjkiv8SEeCTVShDmIERU4M7BYRC6o7xe2Z/U
-XDAjCSnRwUXEsDkK1S3sZW/PbsrvrENoR4hIY9MOKpOKUc1gMRblyPhxLxJh
-BkJEAat/oIag+0VqbuSkfc79MgiDECIyWA3CEktb6/zvTLJcU4AwBCHCG5CY
-nJNa4pmXlo+acX3u/bRr/lrfxI3QhRARhOjyTczLTEsFVjd4s/xS9wOl7xhe
-xgAAlaUhVlnAd84=
+si1s76YEvQeKqOEzpzg1HSRVHG+Mxyy3YjcVAdnSfN1gDWLM0ktPzcNj2luN
+OgHdp0/MdYMtsZsWlJqWWpSal5wakJieWqwfXJmblJ9TrO9cmZyTmeyXWqKX
+l4RkvI+ZRhUHsy2jO8IGm6xbOqIhfzJ0g11IsgFodnl+UXZwZXFJaq5LZnFB
+TmIlmmUnTzeW/HzBHY2wbP2hHO/pTBKuusFe5FvmWpafUwrS5ZNZjO6//8/n
+LtNTPheEsHJJY+CcndbrhaljZUBOPrqVSQviGRfJfQ9GWDlBP4jpNrMU0EpH
+8q0MKs1JRbPJL1o2LZFhkzPCpgr/3fGsC98r6QZrYbcpODWxKDkDkuRMIRkh
+FU9ym6+1S2qqarUXKebhy1jhR6batcluL9AN1iTSvOJMPMa59hR+tQ3aZqkb
+rEuMcWmZqTkpxXrlOXiMnKssIHGn4aOmbrAJMUZmgmjf1JLElMSSRAImL+YP
+v3Zrq4husB4xJsMLFyM8Zio4V0j7rOZgItLM8qLMklS9nPzkbDxmXrSe9OSC
+XzurbrA6DjMLUnNyoCWpEYEIb5yoxn3hd6G9brA2QcPgPjbHY+Bscfcj4oIu
+wbijHNNAAmVq7Fau8MANXEAPy3mnFuWl5ujr+bmg5D1gxOoVlxcg570bjYsv
+bn1vGYUwBiEiDzUGe5Ghl4tsDv+JvUcmvspFMgchogJ3Dg6DgI5C9phP5Cbm
+423C97kRhiFEiDEsH9mwPRk8DbUPCtMQhiFEiDEMJbgUHJZM79uTF4KUdOEi
+YtiCCzWU2Mvent2U31mH0I4QkcamHVRaFqOawWIsypHx414kwgyEiAJW/0AN
+QfeL1NzISfuc+2UQBiFEZLAahCX9bK3zvzPJck0BwhCECG9AYnJOaolnXlo+
+apHiE9jxeHnwnitMCF0IEUGILt/EvMy0VGBFiLcwmif8eNqDqnY2ACHaWqdu
+0XlH
       "]]}},
 CreateCellID->True,
 DynamicEvaluationTimeout->60,

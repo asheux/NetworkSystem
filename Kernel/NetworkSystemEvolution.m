@@ -10,23 +10,24 @@ PackageExport[CyclicNet]
 
 
 NetworkSystemEvolutionList::badarg = "Arguments must be of the form:
-    NetworkSystemEvolutionList[{depth_Integer, {{ints...} -> {List|Integer, List|Integer}, ... }}, {{i1_Integer, j1_Integer}, {i2_Integer, j2_Integer}, ...}, total_Integer, Options... ].
-    NetworkSystemEvolutionList[code_Integer, {{i1_Integer, j1_Integer}, {i2_Integer, j2_Integer}, ...}, total_Integer, Options... ].";
+    NetworkSystemEvolutionList[{depth_Integer, coords_List, total_Integer, opts___ ].
+    NetworkSystemEvolutionList[code_Integer, coords_List, total_Integer, opts___ ].";
 NetworkSystemEvolutionPlot::badarg = "Arguments must be of the form:
-    NetworkSystemEvolutionPlot[{depth_Integer, {{ints...} -> {List|Integer, List|Integer}, ... }}, {{i1_Integer, j1_Integer}, {i2_Integer, j2_Integer}, ...}, total_Integer, Options... ].
-    NetworkSystemEvolutionPlot[code_Integer, {{i1_Integer, j1_Integer}, {i2_Integer, j2_Integer}, ...}, total_Integer, Options... ].";
-NetworkSystemDisplay::badarg = "Argument must be a list of integer pairs. e.g., {{5, 2}, {1, 3}, {2, 4}, {3, 5}, {4, 1}}";
-CyclicNet::argx = "CyclicNet called with an incorrect number or type of arguments. Expected CyclicNet[t_Integer]";
+    NetworkSystemEvolutionPlot[{depth_Integer, rules___}, coords_List, total_Integer, opts___ ].
+    NetworkSystemEvolutionPlot[code_Integer, coords_List, total_Integer, opts___ ]
+    where coords is a list of integer pairs and rules have the form {ints___} -> {List|Integer, List|Integer}.";
+NetworkSystemDisplay::badarg = "Argument must be a list of integer pairs.";
+CyclicNet::argx = "CyclicNet[] called with `1` arguments. 1 argument xpected";
 
 
-arrow[{a_, b_}, n_, tot_] := Module[
+arrow[{a_, b_}, n_, tot_, arrowsize_] := Module[
   {dir, rxy, r = 0.1, oset = 0.01, up = {0, Pi}, down = {Pi, 2 Pi}},
   dir = If[b > a, 1, -1];
   rxy = Abs[{(a - b)/2, 0.9*Sqrt[(a - b)/tot]}];
 
   If[a == b, Circle[{a, n/6}, 1/6],
   {
-    Arrowheads[{{dir*Automatic, 0.5, Graphics[Line[n {{-r - oset, r}, {0, 0}, {-r - oset, -r}}]]}}],
+    Arrowheads[{{dir*arrowsize, 0.5, Graphics[Line[n {{-r - oset, r}, {0, 0}, {-r - oset, -r}}]]}}],
     Arrow[Circle[{Mean[{a, b}], 0}, rxy, n /. {1 -> up, -1 -> down}]]
   }]
 ]
@@ -57,7 +58,10 @@ ConnectedNodes[list_, i_] := Module[{seq, pl},
 ]
 
 CyclicNet[n_?IntegerQ] := RotateRight[Table[Mod[{i - 1, i + 1}, n] + 1, {i, n}]]
-CyclicNet[___] := Failure["BadArg", <|"MessageTemplate" -> CyclicNet::argx|>];
+CyclicNet[args___] := Failure["BadArg", <|
+    "MessageTemplate" -> CyclicNet::argx,
+    "MessageParameters" -> {HoldForm[{args}]} 
+|>];
 
 Options[NetworkSystemEvolutionList] = {
     "Depth" -> 1,
@@ -92,23 +96,41 @@ NetworkSystemEvolutionList[
 ]
 NetworkSystemEvolutionList[___] := Failure["BadArg", <|"MessageTemplate" -> NetworkSystemEvolutionList::badarg|>];
 
-NetworkSystemDisplay[net: {{_Integer, _Integer} ..}] := Module[{i},
+
+Options[NetworkSystemDisplay] = {
+    "ArrowSize" -> Automatic,
+    "ImageSize" -> Automatic,
+    "PointSize" -> 2.5,
+    "ArrowThickness" -> .8
+}
+NetworkSystemDisplay[net: {{_Integer, _Integer} ..}, opts: OptionsPattern[]] := Module[
+  {i, arrowsize, imagesize, pointsize, athickness},
+  arrowsize = OptionValue["ArrowSize"];
+  imagesize = OptionValue["ImageSize"];
+  pointsize = OptionValue["PointSize"];
+  athickness = OptionValue["ArrowThickness"];
+
   Graphics[MapIndexed[{
       i = #2[[1]];
       GeometricTransformation[{
-        AbsolutePointSize[2.5], AbsoluteThickness[.8], Point[{i, 0}],
-        arrow[{#[[1]], i}, 1, Length[net]], arrow[{#[[2]], i}, -1, Length[net]]
-        },
-       RotationTransform[2 Pi, {i, 0}]
-       ]
-      } &, net]
+        AbsolutePointSize[pointsize], AbsoluteThickness[athickness], Point[{i, 0}],
+        arrow[{#[[1]], i}, 1, Length[net], arrowsize], arrow[{#[[2]], i}, -1, Length[net], arrowsize]
+       }, RotationTransform[2 Pi, {i, 0}]
+      ]
+     } &, net],
+    ImageSize -> imagesize
   ]
 ]
 NetworkSystemDisplay[___] := Failure["BadArg", <|"MessageTemplate" -> NetworkSystemDisplay::badarg|>];
 
 Options[NetworkSystemEvolutionPlot] = {
     "Depth" -> 1,
-    "SimpleNet" -> False
+    "ArrowSize" -> Automatic,
+    "SimpleNet" -> False,
+    "ImageSize" -> Automatic,
+    "PointSize" -> 2.5,
+    "VerticalLineThickness" -> 2,
+    "ArrowThickness" -> 1
 };
 NetworkSystemEvolutionPlot[
     code_Integer,
@@ -118,6 +140,7 @@ NetworkSystemEvolutionPlot[
 ] := Module[{depth, rules}, 
     depth = OptionValue["Depth"];
     rules = NetworkSystemRule[code, depth];
+
     If[
         FailureQ[rules],
         Return[rules],
@@ -129,21 +152,32 @@ NetworkSystemEvolutionPlot[
     init: {{_Integer, _Integer} ..},
     tot_?IntegerQ,
     opts: OptionsPattern[]
-] := Module[{issimplenet, i, history, k = 2},
+] := Module[{issimplenet, i, history, arrowsize, vthickness, athickness, imagesize, pointsize, k = 2},
     issimplenet = OptionValue["SimpleNet"];
+    arrowsize = OptionValue["ArrowSize"];
+    imagesize = OptionValue["ImageSize"];
+    pointsize = OptionValue["PointSize"];
+    vthickness = OptionValue["VerticalLineThickness"];
+    athickness = OptionValue["ArrowThickness"];
     history = NetworkSystemEvolutionList[rules, init, tot, "SimpleNet" -> issimplenet];
+
     Graphics[{
-        {GrayLevel[0.6], AbsoluteThickness[2], MapIndexed[(
+      {GrayLevel[0.6], AbsoluteThickness[vthickness], MapIndexed[(
             i = First[#2];
             MapIndexed[Line[{{First[#2], -k*i}, {#1, k - k*i}}] &,
                 First[#1]]
         ) &, history]},
         MapIndexed[
             Translate[First[#], {0, -k First[#2]}] &,
-            Map[NetworkSystemDisplay[#[[2]]] &, history]
+            Map[NetworkSystemDisplay[#[[2]],
+              "ArrowSize" -> arrowsize,
+              "PointSize" -> pointsize,
+              "ArrowThickness" -> athickness
+            ] &, history]
         ]
-    },
-    PlotRange -> {{0.5, 0.5 + Max[Length[#[[2]]] & /@ history]}, All}
+      },
+      ImageSize -> imagesize,
+      PlotRange -> {{0.5, 0.5 + Max[Length[#[[2]]] & /@ history]}, All}
     ]
 ]
 NetworkSystemEvolutionPlot[___] := Failure["BadArg", <|"MessageTemplate" -> NetworkSystemEvolutionPlot::badarg|>];

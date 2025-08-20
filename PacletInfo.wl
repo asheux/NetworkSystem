@@ -7,7 +7,7 @@ PacletObject[
     "Creator" -> "Brian A. Mboya",
     "License" -> "MIT",
     "PublisherID" -> "WolframInstitute",
-    "Version" -> "1.0.5",
+    "Version" -> "1.0.7",
     "WolframVersion" -> "14.2+",
     "PrimaryContext" -> "WolframInstitute`NetworkSystem`",
     "Extensions" -> {
