@@ -96,29 +96,51 @@ NetworkSystemEvolutionList[
 ]
 NetworkSystemEvolutionList[___] := Failure["BadArg", <|"MessageTemplate" -> NetworkSystemEvolutionList::badarg|>];
 
+Options[GraphNetwork] = {"GraphNetSize" -> Automatic}
+GraphNetwork[net_, opts: OptionsPattern[]] := Module[{decomp, eU, eD, edges, coordAssoc, size},
+    decomp = MapIndexed[{{#[[2]], #2[[1]]}, {#[[1]], #2[[1]]}} &, net];
+    eU = DirectedEdge@@@decomp[[All, 1]];
+    eD = DirectedEdge@@@decomp[[All, 2]];
+    edges = Join[eU, eD];
+    verts = Sort@Union@Flatten@(List@@@edges);
+    size = OptionValue["GraphNetSize"];
+
+    Graph[verts,edges,
+        VertexLabels->"Name",
+        VertexSize->.18,
+        ImagePadding->30,
+        ImageSize->size
+    ]
+]
+
 
 Options[NetworkSystemDisplay] = {
     "ArrowSize" -> Automatic,
     "ImageSize" -> Automatic,
     "PointSize" -> 2.5,
-    "ArrowThickness" -> .8
+    "ArrowThickness" -> .8,
+    "NKS" -> False
 }
 NetworkSystemDisplay[net: {{_Integer, _Integer} ..}, opts: OptionsPattern[]] := Module[
-  {i, arrowsize, imagesize, pointsize, athickness},
+  {i, arrowsize, imagesize, pointsize, athickness, isNKS},
   arrowsize = OptionValue["ArrowSize"];
   imagesize = OptionValue["ImageSize"];
   pointsize = OptionValue["PointSize"];
   athickness = OptionValue["ArrowThickness"];
+  isNKS = OptionValue["NKS"];
 
-  Graphics[MapIndexed[{
-      i = #2[[1]];
-      GeometricTransformation[{
-        AbsolutePointSize[pointsize], AbsoluteThickness[athickness], Point[{i, 0}],
-        arrow[{#[[1]], i}, 1, Length[net], arrowsize], arrow[{#[[2]], i}, -1, Length[net], arrowsize]
-       }, RotationTransform[2 Pi, {i, 0}]
-      ]
-     } &, net],
-    ImageSize -> imagesize
+  If[isNKS,
+    Graphics[MapIndexed[{
+        i = #2[[1]];
+        GeometricTransformation[{
+          AbsolutePointSize[pointsize], AbsoluteThickness[athickness], Point[{i, 0}],
+            arrow[{#[[1]], i}, 1, Length[net], arrowsize], arrow[{#[[2]], i}, -1, Length[net], arrowsize]
+           }, RotationTransform[2 Pi, {i, 0}]
+        ]
+        } &, net],
+        ImageSize -> imagesize
+    ],
+    GraphNetwork[net, "GraphNetSize" -> imagesize]
   ]
 ]
 NetworkSystemDisplay[___] := Failure["BadArg", <|"MessageTemplate" -> NetworkSystemDisplay::badarg|>];
@@ -130,7 +152,9 @@ Options[NetworkSystemEvolutionPlot] = {
     "ImageSize" -> Automatic,
     "PointSize" -> 2.5,
     "VerticalLineThickness" -> 2,
-    "ArrowThickness" -> 1
+    "ArrowThickness" -> 1,
+    "NKS" -> False,
+    "GraphNetworkSize" -> Automatic
 };
 NetworkSystemEvolutionPlot[
     code_Integer,
@@ -152,17 +176,20 @@ NetworkSystemEvolutionPlot[
     init: {{_Integer, _Integer} ..},
     tot_?IntegerQ,
     opts: OptionsPattern[]
-] := Module[{issimplenet, i, history, arrowsize, vthickness, athickness, imagesize, pointsize, k = 2},
+] := Module[{issimplenet, i, history, arrowsize, vthickness, athickness, imagesize, pointsize, isNKS, k = 2},
     issimplenet = OptionValue["SimpleNet"];
     arrowsize = OptionValue["ArrowSize"];
     imagesize = OptionValue["ImageSize"];
     pointsize = OptionValue["PointSize"];
     vthickness = OptionValue["VerticalLineThickness"];
     athickness = OptionValue["ArrowThickness"];
+    isNKS = OptionValue["NKS"];
+    smallImageSize = OptionValue["GraphNetworkSize"];
     history = NetworkSystemEvolutionList[rules, init, tot, "SimpleNet" -> issimplenet];
 
-    Graphics[{
-      {GrayLevel[0.6], AbsoluteThickness[vthickness], MapIndexed[(
+    If[isNKS,
+      Graphics[{
+       {GrayLevel[0.6], AbsoluteThickness[vthickness], MapIndexed[(
             i = First[#2];
             MapIndexed[Line[{{First[#2], -k*i}, {#1, k - k*i}}] &,
                 First[#1]]
@@ -172,12 +199,24 @@ NetworkSystemEvolutionPlot[
             Map[NetworkSystemDisplay[#[[2]],
               "ArrowSize" -> arrowsize,
               "PointSize" -> pointsize,
-              "ArrowThickness" -> athickness
+              "ArrowThickness" -> athickness,
+              "NKS" -> isNKS
             ] &, history]
         ]
       },
       ImageSize -> imagesize,
       PlotRange -> {{0.5, 0.5 + Max[Length[#[[2]]] & /@ history]}, All}
+    ],
+    Row[Map[
+      NetworkSystemDisplay[#[[2]],
+        "ArrowSize" -> arrowsize,
+        "PointSize" -> pointsize,
+        "ArrowThickness" -> athickness,
+        "ImageSize" -> smallImageSize,
+        "NKS" -> isNKS
+     ] &, history],
+     Graphics[Style[Text["\[Rule]"], 15]]
     ]
+  ]
 ]
 NetworkSystemEvolutionPlot[___] := Failure["BadArg", <|"MessageTemplate" -> NetworkSystemEvolutionPlot::badarg|>];
